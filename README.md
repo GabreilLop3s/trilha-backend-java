@@ -15,7 +15,7 @@ Este projeto pavimenta a base técnica para a minha futura transição para **Cl
 
 ## ⏱️ Prazo e Cadência
 - **Duração Estimada:** 12 meses (Novembro/2026 a Novembro/2027)
-- **Cadência de Estudo:** 8 a 10 horas semanais (focadas de quinta a domingo)
+- **Cadência de Estudo:** 8 a 10 horas semanais (focadas de segunda a sábado)
 - **Metodologia:** Prática guiada e construção de projetos reais, com controle de evidências semanais.
 
 ---
