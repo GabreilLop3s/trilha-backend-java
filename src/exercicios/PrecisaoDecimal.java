@@ -53,3 +53,4 @@ public class PrecisaoDecimal {
  * - RoundingMode.HALF_EVEN: Arredondamento bancário (arredonda para o vizinho
  *   mais próximo; em caso de empate exato no .5, arredonda para o número par).
  * ============================================================================
+ */
